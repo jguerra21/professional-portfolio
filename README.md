@@ -1,6 +1,9 @@
 Github app link link: https://github.com/jguerra21/professional-portfolio
 
 Live deployed link: https://jguerra21.github.io/professional-portfolio/
+
+Linkedin Profile link: https://www.linkedin.com/in/jolie-guerra-2005b073/
+
 # Unit 16 Project 2 Homework: Professional Materials
 
 Now that you've built a full-stack web application and have another project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
